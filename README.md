@@ -4,6 +4,9 @@ Desenvolvimento de jogo simples utilizando como base o HTML e o CSS
 #Objetivo:
 -Criar um jogo simples usando HTML e CSS
 
+#Escolha:
+-Jogo da memória
+
 #aula 1:
 -Criar repositório
 -Elaborar proposta (README.md)
